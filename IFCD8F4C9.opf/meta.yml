@@ -1,0 +1,47 @@
+id: IFCD8F4C9
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:08:52.227234'
+last_modified: '2022-06-15T20:08:52.227240'
+parser: null
+source_metadata:
+  title: Kashmiri Śākyaśrībhadra
+  language: de
+  description: 'Texts by and about the Kashmiri master Śākyaśrībhadra (shā kya shrī
+    bzang po, 1127–1225), who in 1204 travelled to Tibet, where he became the teacher
+    of a number of important lamas, including Sakya Paṇḍita Kunga Gyaltsen:'
+  volume:
+    f345A:
+      title: An Instruction on Pure View and Conduct
+      base_file: f345A.txt
+      order: 1
+      parent: Instructions
+    fFB1F:
+      title: A Brief Practice for Paying Homage and Making Offerings to the Buddha
+        together with his retinue of Arhats
+      base_file: fFB1F.txt
+      order: 2
+      parent: Practices
+    f442B:
+      title: Taking the Vows of Sojong
+      base_file: f442B.txt
+      order: 3
+      parent: Practices
+    fEA0E:
+      title: The Seven Branches for Practising the Sacred Dharma
+      base_file: fEA0E.txt
+      order: 4
+      parent: Practices
+    fB24B:
+      title: Verses of Refuge and Bodhicitta
+      base_file: fB24B.txt
+      order: 5
+      parent: Practices
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
